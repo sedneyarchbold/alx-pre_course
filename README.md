@@ -1,1 +1,1 @@
-My first readme
+Sedney is rich
